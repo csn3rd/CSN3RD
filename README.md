@@ -19,14 +19,15 @@
 <p align="center">
 <b>INTERESTS</b>
 <br>
-📚 Computer Science 📚<br>
-👨‍💻 Software Engineering 👨‍💻<br>
+📚 Computer Science and Engineering 📚<br>
+👨‍💻 Software Development 👨‍💻<br>
 💻 Competitive Programming 💻<br>
-😎 Cyber Security 😎<br>
-🔍 Open Source Intelligence 🔎<br>
+😎 Information / Computer Secuirty 😎<br>
+🔍 Open Source Intelligence (OSINT) 🔎<br>
 🕵️‍♂️ Internet Puzzles 🕵️‍♀️<br>
 </p>
 
+<hr>
 
 <p align="center"><samp>
 To learn more about me, feel free to visit my website by clicking on the gif ⬆️!<br>
