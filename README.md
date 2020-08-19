@@ -14,10 +14,15 @@
 <a href= "https://www.messenger.com/t/J.923.Hax"><img src="https://img.icons8.com/ios/95/000000/facebook-messenger.png"/></a>
 </p>
 
+<p align="center"><samp>
+To learn more about me, visit my website by clicking on the gif.<br>
+Feel free to connect with me by clicking on the social icons.<br>
+</samp></p>
+
 <hr>
 
 <p align="center">
-<b>INTERESTS</b>
+<b>MY INTERESTS</b>
 <br>
 📚 Computer Science and Engineering 📚<br>
 👨‍💻 Software Development 👨‍💻<br>
@@ -30,6 +35,5 @@
 <hr>
 
 <p align="center"><samp>
-Feel free to visit my website by clicking on the gif or connect with me by clicking on the social icons. ⬆️<br>
-You can also check out my projects and writeups by clicking the repos. ⬇️
+Check out my projects and writeups below. ⬇️
 </samp></p>
