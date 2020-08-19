@@ -30,7 +30,6 @@
 <hr>
 
 <p align="center"><samp>
-To learn more about me, feel free to visit my website by clicking on the gif ⬆️!<br>
-You can also check out my projects and writeups by clicking the repos ⬇️!
+Feel free to visit my website by clicking on the gif or connect with me by clicking on the social icons. ⬆️<br>
+You can also check out my projects and writeups by clicking the repos. ⬇️
 </samp></p>
-
