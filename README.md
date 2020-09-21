@@ -27,7 +27,7 @@ Feel free to connect with me by clicking on the social icons.<br>
 📚 Computer Science and Engineering 📚<br>
 👨‍💻 Software Development 👨‍💻<br>
 💻 Competitive Programming 💻<br>
-😎 Information / Computer Secuirty 😎<br>
+😎 Information / Computer Security 😎<br>
 🔍 Open Source Intelligence (OSINT) 🔎<br>
 🕵️‍♂️ Internet Puzzles 🕵️‍♀️<br>
 </p>
