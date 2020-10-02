@@ -37,3 +37,5 @@ Feel free to connect with me by clicking on the social icons.<br>
 <p align="center"><samp>
 Check out my projects and writeups below. ⬇️
 </samp></p>
+
+I decided to pin my 6 most recent CTF writeups so here's the link to my [Linear Algebra Notes](https://github.com/csn3rd/LinearAlgebraNotes/wiki) so you don't have to scroll through all my repos.
