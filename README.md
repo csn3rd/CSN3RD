@@ -1,35 +1,32 @@
 <p align="center">
-  <a href= "https://sites.google.com/view/jonathan-ho-23/"><img width="800" src="https://github.com/csn3rd/CSN3RD/blob/master/csn3rd3.gif" alt="CSN3RD"></a>
+  <a href= "https://sites.google.com/view/jonathan-ho-23/"><img width="800" src="https://github.com/csn3rd/CSN3RD/blob/master/csn3rdbanner.gif" alt="CSN3RD"></a>
 </p>
 
-
-<p align="center">
-<a href= "https://www.linkedin.com/in/jonathan-ho-silicon-valley/"><img src="https://img.icons8.com/ios/95/f0c232/linkedin.png"/></a>
-<a href= "https://www.facebook.com/J.923.Hax/"><img src="https://img.icons8.com/ios/95/f0c232/facebook-new.png"/></a>
-<a href= "https://www.instagram.com/jonho_23/"><img src="https://img.icons8.com/ios/95/f0c232/instagram-new.png"/></a>
-<a href= "https://twitter.com/JonathanHoHAX"><img src="https://img.icons8.com/ios/95/f0c232/twitter.png"/></a>
-<a href= "https://www.quora.com/profile/Jonathan-Ho-51"><img src="https://img.icons8.com/windows/95/f0c232/quora.png"/></a>
-<a href= "https://www.reddit.com/user/csn3rd"><img src="https://img.icons8.com/ios/95/f0c232/reddit.png"/></a>
-<a href= "https://dsc.bio/CSN3RD"><img src="https://img.icons8.com/ios/95/f0c232/discord-logo.png"/></a>
-<a href= "https://www.messenger.com/t/J.923.Hax"><img src="https://img.icons8.com/ios/95/f0c232/facebook-messenger.png"/></a>
-</p>
 
 <p align="center"><samp>
-To learn more about me, visit my website by clicking on the gif.<br>
-Feel free to connect with me by clicking on the social icons.<br>
+To learn more about me, visit my website by clicking on the gif.
 </samp></p>
 
 <hr>
 
 <p align="center">
-<b>MY INTERESTS</b>
-<br>
-📚 Computer Science and Engineering 📚<br>
-👨‍💻 Software Development 👨‍💻<br>
-💻 Competitive Programming 💻<br>
-😎 Information / Computer Security 😎<br>
-🔍 Open Source Intelligence (OSINT) 🔎<br>
-🕵️‍♂️ Internet Puzzles 🕵️‍♀️<br>
+<b>ABOUT</b>
+</p>
+
+<p>
+👋 Hi, I'm Jonathan, a sophomore (junior-standing) at Santa Clara University, majoring in Computer Science and minoring in Mathematics. The emphases I am specializing in are software and security.
+
+🎓 At Santa Clara University, I am part of the moderation and developer team for the SCU Discord Network. I am a member of ACM (Association for Computing Machinery) and BroncoSec (Security Club). I am also an instructor as part of the SCU Splash Program, teaching Course M42: Introduction to Puzzle Solving, Escape Rooms, and ARGs!
+
+📚 Outside of school, I provide 1-on-1 weekly tutoring to high school students to teach them the skills and knowledge necessary to excel in their computer science classes, exams, and competitions. I am also an administrator for the Algorithms space on Quora which has gotten over 1 million views and over 100 thousand followers.
+
+💻 As a hobby, I participate in lots of programming and cybersecurity competitions. In the past few months, I have won several t-shirts from HackerRank and Facebook for my placements in Hack the Interview and Hacker Cup respectively. My contest placements and other details can be found under the accomplishments section of my website. My writeups and editorials can be found on my Github.
+
+🧩 In my free time, I am a developer and moderator for Critical Elements, a company creating software products for internet puzzle solvers and creators. I enjoy solving puzzles and have won first in the last two Harvard Puzzle Day Competitions, solving the full set of puzzles. I have competed in many other puzzle events as well and my achievements can be found under the accomplishments section of my website.
+
+🔎 My friends told me that I am skilled at investigating and digging up information on the internet and persuaded me to study/practice Open Source Intelligence (OSINT). So, I started volunteering for Trace Labs this summer as an Intelligence Analyst, where I collaborate with law enforcement and domestic security agencies to collect data and update reports on missing person cases.
+
+🤝 I am currently looking for an internship or entry-level software developer/engineer position for Summer 2021 so feel free to reach out and connect with me! I am open to talk via LinkedIn, email, phone call, or any social media.
 </p>
 
 <hr>
@@ -38,4 +35,4 @@ Feel free to connect with me by clicking on the social icons.<br>
 Check out my projects and writeups below. ⬇️
 </samp></p>
 
-I decided to pin my 6 most recent CTF writeups so here's the link to my [Linear Algebra Notes](https://github.com/csn3rd/LinearAlgebraNotes/wiki) so you don't have to scroll through all my repos.
+I pinned my 6 most recent CTF writeups. Here's the link to my [Linear Algebra Notes](https://github.com/csn3rd/LinearAlgebraNotes/wiki) so you don't have to scroll through all my repos.
