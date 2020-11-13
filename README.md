@@ -9,7 +9,7 @@ To learn more about me, visit my website by clicking on the gif.
 I also love to meet new people and learn new things so feel free to reach out and connect with me. Here are some of my social media accounts:
 
 <p align="center">
-  <a href= "https://www.CSN3RD.com/"><img width="800" src="https://github.com/csn3rd/CSN3RD/blob/master/CSN3RDBanner.gif" alt="CSN3RD"></a>
+  <img width="800" src="https://github.com/csn3rd/CSN3RD/blob/master/CSN3RDBanner.gif" alt="CSN3RD">
 </p>
 
 <hr>
