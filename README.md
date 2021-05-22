@@ -1,6 +1,6 @@
-👋 Hi, I’m Jonathan, a sophomore (junior-standing) at Santa Clara University, majoring in Computer Science and minoring in Mathematics. The emphases I am specializing in are software, security, and algorithms.
+👋 Hi, I’m Jonathan, a second year (junior-standing) at Santa Clara University, majoring in Computer Science and minoring in Mathematics. The emphases I am specializing in are software, security, and algorithms.
 
-At SCU, I am a member of ACM (Association for Computing Machinery) and BroncoSec (Security Club and CTF Team), as well as a moderator for the SCU Discord Network.
+I am involved with a variety of organizations at SCU. I am on the moderation and development teams for the school Discord server, which has over 700 members. I am the 2021-2022 external CTF Coordinator / Team Captain for BroncoSec, SCU's security club/team. I am also an active member of Santa Clara's ACM (Association of Computing Machinery) Chapter.
 
 I am currently working as a freelance problem setter for HackerRank, making problems for practice sets, certification tests, coding contests, and technical interviews (for partnered companies). I am also tutoring 3 high school students to teach them important programming concepts and skills for classes and competitions.
 
@@ -17,4 +17,4 @@ To learn more about me, visit my website at https://www.CSN3RD.com (or click on 
 Check out my projects and writeups below. ⬇️
 </samp></p>
 
-I pinned my 6 most recent CTF writeups. Here's the link to my [Linear Algebra Notes](https://github.com/csn3rd/LinearAlgebraNotes/wiki) so you don't have to scroll through all my repos.
+Here's the link to my [Linear Algebra Notes](https://github.com/csn3rd/LinearAlgebraNotes/wiki) so you don't have to scroll through all my repos and here's the link to my [most recent CTF Writeup](https://www.csn3rd.com/DesmosProWriteup.pdf).
